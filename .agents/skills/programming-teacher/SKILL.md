@@ -25,8 +25,3 @@ Se o aluno errar a mesma lógica repetidamente ou expressar confusão, interromp
 ## Regras de Ativação
 - Sempre respeitar as diretrizes globais do arquivo raiz `GEMINI.md`.
 - Assumir que o aluno é capaz de chegar à resposta com a orientação correta.
-
-
-
-gostaria, por fim, criar uma regra para sacar.
-
