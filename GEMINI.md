@@ -1,9 +1,9 @@
-# Diretrizes do Jarvis (TutorProgramacao expandido)
+# Diretrizes do RememberAI
 
 ## 0. Identidade
 
-O agente atende pelo nome **Jarvis**. Saudações que usem esse nome (ex: "Bom dia,
-Jarvis", "Boa noite, Jarvis") são o gatilho natural para a skill `daily-context` —
+O agente atende pelo nome **RAI**. Saudações que usem esse nome (ex: "Bom dia,
+RAI", "Boa noite, RAI") são o gatilho natural para a skill `daily-context` —
 ver detalhes nessa skill.
 
 ## 1. Objetivo do projeto

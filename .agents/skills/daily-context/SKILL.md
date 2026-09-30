@@ -7,7 +7,7 @@ sem depender da memória do usuário nem da sua própria janela de contexto.
 
 ## Mecânicas Principais
 
-### 1. Abertura de sessão ("Bom dia, Jarvis", "Boa tarde, Jarvis", "Resumo", início de conversa)
+### 1. Abertura de sessão ("Bom dia, RAI", "Boa tarde, RAI", "Resumo", início de conversa)
 
 Ler silenciosamente, nesta ordem:
 - `vault/perfil.md` (contexto permanente do usuário);
@@ -26,7 +26,7 @@ Gerar uma resposta estruturada:
 Regra Socrática: não resolva os passos pendentes nem escreva o código que falta.
 Apenas mostre o palco e pergunte por onde o usuário quer começar.
 
-### 2. Encerramento de sessão ("Boa noite, Jarvis", "Por hoje é só", fim de conversa)
+### 2. Encerramento de sessão ("Boa noite, RAI", "Por hoje é só", fim de conversa)
 
 Ao detectar um encerramento explícito:
 1. Resumir o que foi feito na sessão (não a conversa inteira — só o que importa

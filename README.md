@@ -1,6 +1,6 @@
-# TutorProgramacao 🤖
+# RememberAI 🤖
 
-Bem-vindo ao **TutorProgramacao**, um ambiente de aprendizado e desenvolvimento assistido por IA. Este repositório não contém apenas código, mas a "mente" e as regras de um Agente Inteligente configurado para ser seu professor particular e colega de programação (pair programming).
+Bem-vindo ao **RememberAI**, um ambiente de aprendizado e desenvolvimento assistido por IA. Este repositório não contém apenas código, mas a "mente" e as regras de um Agente Inteligente configurado para ser seu professor particular e colega de programação (pair programming).
 
 ---
 
